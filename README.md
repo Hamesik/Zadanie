@@ -1,1 +1,4 @@
 # Zadanie
+
+ooo
+to to
